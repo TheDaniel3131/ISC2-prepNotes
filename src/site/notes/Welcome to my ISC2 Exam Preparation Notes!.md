@@ -7,7 +7,7 @@ Welcome to ISC2 exam notes homepage: https://isc-2-prep-notes.vercel.app/
 
 ## Chapters
 
-- [[Chapters/Domain 1 - Security Principles/Domain 1 - Security Principles/1.0 Domain 1 Information\|1.0 Domain 1 Information]]
+- [[Chapters/Domain 1 - Security Principles/Domain 1 - Security Principles/1.-1 Domain 1 Information\|1.-1 Domain 1 Information]]
 - [[Chapters/Domain 1 - Security Principles/Domain 1 - Security Principles/1.0 The Confidentiality, Integrity, and Availability (CIA) Triad\|1.0 The Confidentiality, Integrity, and Availability (CIA) Triad]]
 - [[Chapters/Domain 1 - Security Principles/Domain 1 - Security Principles/1.1 Privacy\|1.1 Privacy]]
 - [[Chapters/Domain 1 - Security Principles/Domain 1 - Security Principles/1.10 Authentication\|1.10 Authentication]]
