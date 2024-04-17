@@ -7,7 +7,7 @@ Welcome to ISC2 exam notes homepage: https://isc-2-prep-notes.vercel.app/
 
 ## Chapters
 
-- [[Chapters/Domain 1 - Security Principles/Domain 1 - Security Principles/0.0 Domain 1 Information\|0.0 Domain 1 Information]]
+- [[Chapters/Domain 1 - Security Principles/Domain 1 - Security Principles/1.0 Domain 1 Information\|1.0 Domain 1 Information]]
 - [[Chapters/Domain 1 - Security Principles/Domain 1 - Security Principles/1.0 The Confidentiality, Integrity, and Availability (CIA) Triad\|1.0 The Confidentiality, Integrity, and Availability (CIA) Triad]]
 - [[Chapters/Domain 1 - Security Principles/Domain 1 - Security Principles/1.1 Privacy\|1.1 Privacy]]
 - [[Chapters/Domain 1 - Security Principles/Domain 1 - Security Principles/1.10 Authentication\|1.10 Authentication]]
@@ -164,6 +164,7 @@ Welcome to ISC2 exam notes homepage: https://isc-2-prep-notes.vercel.app/
 - [[Case Study - JavaSip/Keith's Story\|Keith's Story]]
 - [[Chapters/Course Introduction/Looking for something specify\|Looking for something specify]]
 - [[Case Study - JavaSip/Other Stories\|Other Stories]]
+- [[Chapters/Domain 1 - Security Principles/Domain 1 - Security Principles/Page Indexing - Domain 1 - Security Principles\|Page Indexing - Domain 1 - Security Principles]]
 - [[Chapters/Course Pre-assessment/Pre-assessment\|Pre-assessment]]
 - [[Chapters/Course Conclusion & Final Assessment/Quizzes\|Quizzes]]
 - [[Case Study - JavaSip/Susan's Morning Cup of Joe\|Susan's Morning Cup of Joe]]
