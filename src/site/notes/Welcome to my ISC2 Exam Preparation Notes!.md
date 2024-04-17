@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-my-isc-2-exam-preparation-notes/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/welcome-to-my-isc-2-exam-preparation-notes/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 
