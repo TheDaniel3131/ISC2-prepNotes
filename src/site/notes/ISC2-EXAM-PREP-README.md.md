@@ -3,7 +3,9 @@
 ---
 
 
-Welcome to ISC2 exam notes homepage: https://isc-2-prep-notes.vercel.app/
+Welcome to my ISC2 exam preparation notes website! I created this website with the sole purpose of documenting all my notes for free. 
+
+Homepage: https://isc-2-prep-notes.vercel.app/
 
 ## Chapters
 
