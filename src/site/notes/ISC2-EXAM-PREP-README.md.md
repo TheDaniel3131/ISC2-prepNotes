@@ -42,7 +42,6 @@ Homepage: https://isc-2-prep-notes.vercel.app/
 - [[Chapters/Domain 1 - Security Principles/Domain 1 - Security Principles/1.27 Risk Assessment\|1.27 Risk Assessment]]
 - [[Chapters/Domain 1 - Security Principles/Domain 1 - Security Principles/1.28 What are Security Controls\|1.28 What are Security Controls]]
 - [[Chapters/Domain 1 - Security Principles/Domain 1 - Security Principles/1.29 CIA Triad Deep Dive\|1.29 CIA Triad Deep Dive]]
-- [[ISC2-EXAM-PREP-README.md\|ISC2-EXAM-PREP-README.md]]
 - [[Chapters/Domain 2 - Incident Response, Business Continuity and Disaster Recovery Concepts/Domain 2 - Incident Response, Business Continuity and Disaster Recovery Concepts/2.-1 Domain 2 Intro\|2.-1 Domain 2 Intro]]
 - [[Chapters/Domain 2 - Incident Response, Business Continuity and Disaster Recovery Concepts/Domain 2 - Incident Response, Business Continuity and Disaster Recovery Concepts/2.0 Incident Terminology\|2.0 Incident Terminology]]
 - [[Chapters/Domain 2 - Incident Response, Business Continuity and Disaster Recovery Concepts/Domain 2 - Incident Response, Business Continuity and Disaster Recovery Concepts/2.1 The Goal of Incident Response\|2.1 The Goal of Incident Response]]
