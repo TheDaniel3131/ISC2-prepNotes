@@ -157,6 +157,9 @@ Homepage: https://isc-2-prep-notes.vercel.app/
 - [[Chapters/Flashcards from Quizlet/7.0 Flashcards from Quizlet\|7.0 Flashcards from Quizlet]]
 - [[Chapters/Course Conclusion & Final Assessment/8.0 Course Conclusion & Final Assessment - Quizzes\|8.0 Course Conclusion & Final Assessment - Quizzes]]
 - [[Chapters/Glossary/9.0 Glossary\|9.0 Glossary]]
+- [[10.0 Case Study - JavaSip/10.1 Keith's Story\|10.1 Keith's Story]]
+- [[10.0 Case Study - JavaSip/10.2 Susan's Morning Cup of Joe\|10.2 Susan's Morning Cup of Joe]]
+- [[10.0 Case Study - JavaSip/10.3 Other Stories\|10.3 Other Stories]]
 
 { .block-language-dataview}
 
