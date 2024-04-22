@@ -2,15 +2,20 @@
 {"dg-publish":true,"permalink":"/isc-2-exam-prep-readme-md/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
+## Hello!
 
-Welcome to my ISC2 exam preparation notes website! I created this website with the sole purpose of documenting all my notes for free. 
+Welcome to my ISC2 exam preparation notes website! I created this website with the sole purpose of documenting all my notes for free! Please feel free to navigate all of these study chapters and notes.
 
-Homepage: https://isc-2-prep-notes.vercel.app/
+Main Page: https://isc-2-prep-notes.vercel.app/
 
 ## Chapters
 
 - [[Chapters/Course Introduction/0.0 Course Introduction\|0.0 Course Introduction]]
 - [[Chapters/Course Pre-assessment/0.1 Pre-assessment\|0.1 Pre-assessment]]
+- [[Chapters/Course Introduction/0.2 Course Content\|0.2 Course Content]]
+- [[Chapters/Course Introduction/0.3 Course Specifications\|0.3 Course Specifications]]
+- [[Chapters/Course Introduction/0.4 Course Disclaimer\|0.4 Course Disclaimer]]
+- [[Chapters/Course Introduction/0.5 ISC2 Code of Ethics\|0.5 ISC2 Code of Ethics]]
 - [[Chapters/Domain 1 - Security Principles/Domain 1 - Security Principles/1.-1 Domain 1 Information\|1.-1 Domain 1 Information]]
 - [[Chapters/Domain 1 - Security Principles/Domain 1 - Security Principles/1.0 The Confidentiality, Integrity, and Availability (CIA) Triad\|1.0 The Confidentiality, Integrity, and Availability (CIA) Triad]]
 - [[Chapters/Domain 1 - Security Principles/Domain 1 - Security Principles/1.1 Privacy\|1.1 Privacy]]
